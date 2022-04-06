@@ -26,8 +26,6 @@ A pure Python implementation of encryption of AES written with the goal to resem
 
 ## Documentations and References
 
-<br />
-
 ### For AES: 
 1. https://www.ijser.org/researchpaper/Implementation-of-Advanced-Encryption-Standard-Algorithm.pdf
 2. https://csrc.nist.gov/csrc/media/publications/fips/197/final/documents/fips-197.pdf
