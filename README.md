@@ -24,7 +24,7 @@ A pure Python implementation of encryption of AES written with the goal to resem
 2. https://csrc.nist.gov/csrc/media/publications/fips/197/final/documents/fips-197.pdf
 3. https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture8.pdf
 4. https://en.wikipedia.org/wiki/AES_key_schedule
-5. Theoretical ref (a lecture from Prof. Christof Paar): https://www.youtube.com/watch?v=NHuibtoL_qk
+5. A lecture from Prof. Christof Paar: https://www.youtube.com/watch?v=NHuibtoL_qk
 
 ### For Galois Field:
 1. https://www.youtube.com/watch?v=x1v2tX4_dkQ
