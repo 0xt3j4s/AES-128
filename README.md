@@ -3,7 +3,6 @@
 A pure Python implementation of encryption of AES written with the goal to resemble [this](https://www.ijser.org/researchpaper/Implementation-of-Advanced-Encryption-Standard-Algorithm.pdf) paper as closely as possible; although it is compiled from different references as mentioned below. As of now, it supports the key size of 128 bits. For padding I have used '{', the text is encrypted accordingly. 
 
 <br />
-<br />
 
 
 ## Required Python Dependencies
@@ -14,7 +13,7 @@ A pure Python implementation of encryption of AES written with the goal to resem
 
 ## Usage
 
-- For trying it, clone the repo and run the file ``aes.py``. For cloning the repo, ``git clone [url]``; It returns the encrypted text.
+- For trying it, clone the repo (using ``git clone [url]``) and then run the file ``aes.py``. It returns the encrypted text.
 
 <br />
 
