@@ -16,13 +16,17 @@ A pure Python implementation of encryption of AES written with the goal to resem
 
 - For trying it, clone the repo and run the file ``aes.py``. For cloning the repo, ``git clone [url]``; It returns the encrypted text.
 
+<br />
 
 ## To-DO
 - Add 192 and 256 bit versions
 - Deploy this on a web-page
 
+<br />
 
 ## Documentations and References
+
+<br />
 
 ### For AES: 
 1. https://www.ijser.org/researchpaper/Implementation-of-Advanced-Encryption-Standard-Algorithm.pdf
@@ -30,6 +34,8 @@ A pure Python implementation of encryption of AES written with the goal to resem
 3. https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture8.pdf
 4. https://en.wikipedia.org/wiki/AES_key_schedule
 5. A lecture from Prof. Christof Paar: https://www.youtube.com/watch?v=NHuibtoL_qk
+
+<br />
 
 ### For Galois Field:
 1. https://www.youtube.com/watch?v=x1v2tX4_dkQ
