@@ -1,6 +1,6 @@
 # AES-128
 
-A pure Python implementation of encryption of AES written with the goal to resemble [this](https://www.ijser.org/researchpaper/Implementation-of-Advanced-Encryption-Standard-Algorithm.pdf) paper as closely as possible; although it is compiled from different references as mentioned below. As of now, it supports the key size of 128 bits. For padding I have used '{', the text is encrypted accordingly. 
+A pure Python implementation of encryption of AES-128 written with the goal to resemble [this](https://www.ijser.org/researchpaper/Implementation-of-Advanced-Encryption-Standard-Algorithm.pdf) paper as closely as possible; although it is compiled from different references as mentioned below. As of now, it supports the key size of 128 bits. For padding I have used '{', the text is encrypted accordingly. 
 
 <br />
 
