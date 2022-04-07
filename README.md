@@ -17,7 +17,7 @@ A pure Python implementation of encryption of AES-128 written with the goal to r
 
 <br />
 
-## To-DO
+## To-Do
 - Add 192 and 256 bit versions
 - Deploy this on a web-page
 
