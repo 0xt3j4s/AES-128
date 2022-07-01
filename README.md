@@ -13,13 +13,13 @@ A pure Python implementation of encryption of AES-128 written with the goal to r
 
 ## Usage
 
-- For trying it, clone the repo (using ``git clone [url]``) and then run the file ``aes.py``. It returns the encrypted text.
+- For trying it, clone the repo (using ``git clone [url]``) and then run the file ``aes.py``. It returns the encrypted text for the message entered.
 
 <br />
 
 ## To-Do
-- Add 192 and 256 bit versions
-- Deploy this on a web-page
+- Add 192 and 256 bit versions.
+- Deploy this project on a web-page.
 
 <br />
 
