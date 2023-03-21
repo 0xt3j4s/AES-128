@@ -270,7 +270,7 @@ Key = input("Enter the secret key: ")
 
 if (len(Key) != 16):
     while (len(Key) != 16):
-        print("As the Key size is 128 the secret key should be 16 characters long")
+        print("As the Key size is 128 bits the secret key should be 16 characters long")
         Key = input("Enter the secret key: ")
 
 
